@@ -6,7 +6,6 @@
 
 ## Charles Babbage
 
-#### Charles Babbage birth date:
-
-#### Charles Babbage Death date:
+#### Charles Babbage birth date: 26 December 1791
+#### Charles Babbage Death date:18 October 1871
 
