@@ -21,3 +21,5 @@
 * He was a significant figure in the Astronomical Royal Society in the 1820s.
 * He invented the "Difference Engine" in 1821, in order to compile mathematical tables.
 * He later invented the "Analytical Engine" in 1856 which dealth with various forms of calculations, not just mathematics.
+* In 1985, the Science Museum in London began creating a "Difernce Engine 2.0" based diectly off of Babbage's designs. This project would be completed in 2000.
+* The university of Auckland, New Zealand has some of Babbage's materials to this day.
